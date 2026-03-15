@@ -13,3 +13,5 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 ## Beperkingen
 
 - enkel getest op Arduino uno
+
+## Volgende stappen
