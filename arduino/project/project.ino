@@ -12,9 +12,5 @@ void loop() {
     delay(100*12);
   }
   Serial.println("Nog een rondje");
-<<<<<<< HEAD
-  delay(100*14);
-=======
   delay(100*12);
->>>>>>> fef03692225cf870ee62c2f515ed011dc02fd665
 }
