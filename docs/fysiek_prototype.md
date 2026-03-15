@@ -9,3 +9,5 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 - sensoren
 - scherm
 - omhulsel
+
+## Beperkingen
