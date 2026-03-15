@@ -2,11 +2,14 @@ const int buttonPin = 2;
 const int ledPin = LED_BUILTIN;  
 
 int buttonState = 0;  
+
+//Opstellen pinmodes
 void setup() {
   pinMode(ledPin, OUTPUT);
   pinMode(buttonPin, INPUT);
 }
 
+//Programma Loop
 void loop() {
   buttonState = digitalRead(buttonPin);
 
