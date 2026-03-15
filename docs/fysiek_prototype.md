@@ -11,3 +11,5 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 - omhulsel
 
 ## Beperkingen
+
+- enkel getest op Arduino uno
