@@ -7,7 +7,6 @@ void setup() {
 void loop() {
   for (int i = 0; i < 6; i++) {
     digitalWrite(LED_BUILTIN, HIGH);
-<<<<<<< HEAD
     delay(100*14);
     digitalWrite(LED_BUILTIN, LOW);
     delay(100*14);
