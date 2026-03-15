@@ -14,12 +14,3 @@ void loop() {
   }
   Serial.println("Nog een rondje");
   delay(100*14);
-=======
-    delay(2100);
-    digitalWrite(LED_BUILTIN, LOW);
-    delay(2100);
-  }
-  Serial.println("Hello World");
-  delay(2100);
->>>>>>> 57daa8faeaa95f118feb3f41ea622f839f3e23ed
-}
